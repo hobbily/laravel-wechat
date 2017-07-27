@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "gradii/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "overtrue/wechat": "^3.3.3"
+        "gradii/wechat": "^4.1"
     },
     "autoload": {
         "psr-4": {
