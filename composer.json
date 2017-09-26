@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "gradii/wechat": "^4.1"
+        "hobbily/wechat": "^4.2"
     },
     "autoload": {
         "psr-4": {
