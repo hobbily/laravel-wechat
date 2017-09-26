@@ -1,5 +1,5 @@
 {
-    "name": "gradii/laravel-wechat",
+    "name": "hobbily/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "license": "MIT",
